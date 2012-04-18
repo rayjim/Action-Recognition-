@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mytry1007">
+</Property><Property Name="Solution File" Value="D:\c back\my doc\Visual Studio Projects\mytry1007\mytry1007.sln">
+</Property><Property Name="User Options File" Value="D:\c back\my doc\Visual Studio Projects\mytry1007\mytry1007.suo">
+</Property><Property Name="Date" Value="2007年10月1日">
+</Property><Property Name="Time" Value="下午 12:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mytry1007.sln" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\mytry1007.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mytry1007.suo" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\mytry1007.suo">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="mytry1007.csproj" Description="Project file successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\mytry1007.csproj">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="mytry1007.csproj.user" Description="Project user file successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\mytry1007.csproj.user">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form1.cs" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form2.cs" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="myim.cs" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\myim.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="App.ico" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form1.resx" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form2.resx" Description="File successfully backed up as D:\c back\my doc\Visual Studio Projects\mytry1007\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="mytry1007.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mytry1007" Source="mytry1007.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mytry1007.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mytry1007.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="mytry1007.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

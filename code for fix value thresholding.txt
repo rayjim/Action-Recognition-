@@ -1,0 +1,48 @@
+
+            string fileName = @"D:\sequence_p4\1\circle\sequence_p4_0013.pgm";
+
+            PGM test = new PGM(fileName);
+            ShowImg("", test.mImg);
+            byte[,] g = test.mImg;
+            int w = g.GetLength(0);
+            int h = g.GetLength(1);
+              //Define the kernel
+            int[,] Kernel_Hori = new int[5, 5] { { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 } };
+            byte[,] Imag_Hori = (filter2D(g, Kernel_Hori, "Horizantal_edge"));
+          
+            ShowImg("Hori", Imag_Hori);
+          //  ShowImg("Ver",Imag_Ver);
+            int[] histo = new int[256];
+            for (int i = 0; i < 256; i++)
+            {
+                histo[i] = 0;
+            }
+
+            for (int i = 0; i < w; i++)
+                for (int j = 0; j < h; j++)
+                {
+
+                    histo[Imag_Hori[i, j]]++; 
+                }
+            for (int i = 0; i < 256; i++)
+            {
+                histo[i] = histo[i] *4000/ w / h;
+            }
+            ShowHisto(histo, "histo");
+               for (int i = 0; i < 256; i++)
+            {
+                histo[i] = 255;
+            }
+            for (int i=0; i<5;i++)
+            {
+                histo[i] = 0;
+
+            }
+            byte[,] gg = Imag_Hori; 
+            for (int i = 0; i < w; i++)
+                for (int j = 0; j < h; j++)
+                {
+                    gg[i, j] = Convert.ToByte(histo[Imag_Hori[i, j]]) ;
+                }
+
+            ShowImg("thresholded", gg);

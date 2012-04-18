@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Meiryo" Size="9" />
+  <Class Name="myImgp.Form1" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAACAAAAAAAAEAQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myImgp.Form2" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form2.cs</FileName>
+      <HashCode>AAAAAIAAACAAAAAAAACAAAACAAAAAAAAIEAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myImgp.FastBitmap" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>myim.cs</FileName>
+      <HashCode>AAABABAAAAAACAAAAIgAgAAAAAQAAAEAAAAAEBAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myImgp.exam" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>myim.cs</FileName>
+      <HashCode>gAAAkAAAEIAQgAQAlAwAAAAAEAAACAAEAAQABgQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

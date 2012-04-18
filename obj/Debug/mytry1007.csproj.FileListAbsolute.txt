@@ -1,0 +1,54 @@
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\bin\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\bin\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\myImgp.Form1.resources
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\myImgp.Form2.resources
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\obj\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\obj\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\bin\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\bin\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\obj\Debug\myImgp.Form1.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\obj\Debug\myImgp.Form2.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\obj\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\obj\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\bin\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\bin\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\obj\Debug\myImgp.Form1.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\obj\Debug\myImgp.Form2.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\obj\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\obj\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\bin\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\bin\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\obj\Debug\myImgp.Form1.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\obj\Debug\myImgp.Form2.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007Pro2V1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\obj\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\obj\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\obj\Debug\myImgp.Form1.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\obj\Debug\myImgp.Form2.resources
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\bin\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2010\Projects\mytry1007KTH\bin\Debug\mytry1007.pdb
+C:\Users\ray.ray-PC\Desktop\project\obj\Debug\mytry1007.exe
+C:\Users\ray.ray-PC\Desktop\project\obj\Debug\mytry1007.pdb
+C:\Users\ray.ray-PC\Desktop\project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ray.ray-PC\Desktop\project\obj\Debug\myImgp.Form1.resources
+C:\Users\ray.ray-PC\Desktop\project\obj\Debug\myImgp.Form2.resources
+C:\Users\ray.ray-PC\Desktop\project\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ray.ray-PC\Desktop\project\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ray.ray-PC\Desktop\project\bin\Debug\mytry1007.exe
+C:\Users\ray.ray-PC\Desktop\project\bin\Debug\mytry1007.pdb

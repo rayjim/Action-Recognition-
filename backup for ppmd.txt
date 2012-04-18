@@ -1,0 +1,66 @@
+int Cut_Per = 22;
+            float Cut = Cut_Per / 100;
+            int Num_Left = Convert.ToInt32(256 * 256 * Cut); 
+            int[,] Imag_Or = new int[265, 256];
+           
+            int Per_test = new int();
+            byte[,] Imag_first = new byte[256, 256];
+              int i =0;
+              for (int q = 0; q < 80; q++)
+              {
+                  i = q;
+                  for (int ii = 0; ii < 256; ii++)
+                      for (int jj = 0; jj < 256; jj++)
+                          Imag_Or[ii, jj] = 0;
+                  Imag_first = LoadImg("00" + Convert.ToString(q + 13));
+                  while (Per_test <= 22)
+                  {
+                 {
+                          byte[,] image = LoadImg("00" + Convert.ToString(i + 13));
+                          int w = image.GetLength(0);
+                          int h = image.GetLength(1);
+                          int[,] Kernel_Ver = new int[5, 5] { { 0, 0, 0, 0, 0 }, { 1, 1, 1, 1, 1 }, { 0, 0, 0, 0, 0 }, { -1, -1, -1, -1, -1 }, { 0, 0, 0, 0, 0 } };    //Define the kernel
+                          int[,] Kernel_Hori = new int[5, 5] { { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 }, { 0, 1, 0, -1, 0 } };
+                          byte[,] Imag_Hori = (filter2D(image, Kernel_Hori, "Horizantal_edge"));
+                          //byte[,] Imag_Ver = (filter2D(image, Kernel_Ver, "Vertical_edge"));
+                          byte[,] Imag = Imag_Hori;
+
+                          Imag = Thresholding(Imag, 20, Convert.ToString(i));
+                          if (i == 1)
+                              Imag_first = Imag;
+                          for (int ii = 0; ii < w; ii++)
+                              for (int jj = 0; jj < h; jj++)
+                              {
+                                  Imag_Or[ii, jj] = Convert.ToInt16(Convert.ToBoolean(Imag_Or[ii, jj]) | Convert.ToBoolean(Imag[ii, jj]));
+                              }
+                          Per_test = Caculate_Per(Imag_Or);
+
+                      }
+                      i++;
+                  }
+                  Per_test = 0;
+                  int[,] Imag_Result = new int[256, 256];
+                  for (int ii = 0; ii < 256; ii++)
+                      for (int jj = 0; jj < 256; jj++)
+                      {
+                          if ((Imag_Or[ii, jj]+Imag_first[ii, jj])==1)
+                          {
+                          Imag_Result[ii, jj] = 0;
+                          }
+                              else
+                          Imag_Result[ii, jj] = 1;
+                      }
+                  int result = Caculate_Per(Imag_Result);
+                  int[,] Inp_Imag = Imag_Result;
+                  byte[,] forShow = new byte[256, 256];
+                  for (int ii = 0; ii < 256; ii++)
+                      for (int jj = 0; jj < 256; jj++)
+                      {
+                          if ((Inp_Imag[ii, jj] == 1))
+                          { forShow[ii, jj] = 0; }
+                          else
+                              forShow[ii, jj] = 255;
+                      }
+                 saveImage(forShow, Convert.ToString(q));
+              }
+         

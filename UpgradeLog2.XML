@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mytry1007">
+</Property><Property Name="Solution File" Value="C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\mytry1007.sln">
+</Property><Property Name="User Options File" Value="C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\mytry1007.suo">
+</Property><Property Name="Date" Value="2010年11月17日">
+</Property><Property Name="Time" Value="16:53">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mytry1007.sln" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\mytry1007.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mytry1007.suo" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\mytry1007.suo">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="mytry1007.csproj" Description="Project file successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\mytry1007.csproj">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="mytry1007.csproj.user" Description="Project user file successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\mytry1007.csproj.user">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form1.cs" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form2.cs" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\Form2.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="myim.cs" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\myim.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="PGM.cs" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\PGM.cs">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="bin\startxwin.bat" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\bin\startxwin.bat">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="ClassDiagram1.cd" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="ClassDiagram2.cd" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="App.ico" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\App.ico">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form1.resx" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="Form2.resx" Description="File successfully backed up as C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\Backup1\Form2.resx">
+</Event><Event ErrorLevel="0" Project="mytry1007" Source="mytry1007.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="mytry1007" Source="mytry1007.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="mytry1007.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mytry1007.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+bin\Debug\mytry1007.exe
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\myImgp.Form1.resources
+obj\Debug\myImgp.Form2.resources
+obj\Debug\mytry1007.csproj.GenerateResource.Cache
+obj\Debug\mytry1007.exe
+obj\Debug\mytry1007.pdb
+bin\Debug\mytry1007.pdb

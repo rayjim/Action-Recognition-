@@ -1,0 +1,12 @@
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\bin\Debug\mytry1007.exe
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\bin\Debug\mytry1007.pdb
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\myImgp.Form1.resources
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\myImgp.Form2.resources
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Debug\mytry1007.csproj.GenerateResource.Cache
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Release\myImgp.Form1.resources
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Release\myImgp.Form2.resources
+C:\Users\ray\Documents\Visual Studio 2005\Projects\mytry1007\obj\Release\mytry1007.csproj.GenerateResource.Cache
